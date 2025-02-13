@@ -1,10 +1,17 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f4f4f4;
+    background-color: #e0f7fa;  /* Light blue background */
     padding: 20px;
 }
 
 h1 {
-    color: #333;
+    color: #006064; /* Dark blue text */
+    font-size: 28px;
 }
+
+p {
+    color: #333;
+    font-size: 18px;
+}
+
